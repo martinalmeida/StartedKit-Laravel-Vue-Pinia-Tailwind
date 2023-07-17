@@ -16,3 +16,13 @@ Para instalar las dependencias, ejecuta los siguientes comandos:
 ```bash
 composer install
 npm install
+```
+
+## Inicialización
+
+Una vez instaladas las dependencias, puedes inicializar el proyecto ejecutando los siguientes comandos:
+
+```bash
+php artisan serve
+npm run dev
+```
